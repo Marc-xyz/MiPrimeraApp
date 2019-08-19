@@ -1,11 +1,14 @@
 # MiPrimeraApp
 En  este repositiorio se recoge la primera App solicitada por el curso Fundamentos de Android ofrecido por Coursera.
+## Instrucciones
+Descargar el archivo .zip descomprimir y abirir con Android Studio, o mediante otra opción. 
 ## Contenido
 | **Tipo**    | **Nombre**       | **Descripción**                  | 
 |---|---|---|
 |.zip| MiPrimeraApp | Carpeta con la misma jerarquia visible en Panel Project de Android Studio.|
 | .9.png | mmmarcianito | Aquí esta el ficheros .9.png con la modificación del la Imagen facilitada por la plataforma.| 
 | .pdf| Referencia-ejemplo-del-resultado-del primer-proyecto-Android | Enunciado de la práctica o tarea a realizar. |
+
 
 ## Comentario
 
