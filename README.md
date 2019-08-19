@@ -10,6 +10,7 @@ En  este repositiorio se recoge la primera App solicitada por el curso Fundament
 ## Comentario
 
 Facilito los siguientes extractos de archivos utiles para la evaluación: 
+
 |/vaules-de/strings.xml|
 |---|
 ```
